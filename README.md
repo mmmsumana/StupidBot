@@ -8,7 +8,7 @@ https://line.me/ti/g2/AT_V19b-0BPoQv9vrTn7_ZIEhiWgMpMmublcnA?utm_source=invitati
 
 step 1 : clone
 
-git clone https://github.com/QueNutthawut/StupidBot.git
+git clone https://github.com/mmmsumana/StupidBot.git
 
 cd StupidBot
 
